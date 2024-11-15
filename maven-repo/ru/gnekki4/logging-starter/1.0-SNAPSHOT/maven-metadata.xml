@@ -3,26 +3,26 @@
   <groupId>ru.gnekki4</groupId>
   <artifactId>logging-starter</artifactId>
   <versioning>
-    <lastUpdated>20241115193939</lastUpdated>
+    <lastUpdated>20241115195504</lastUpdated>
     <snapshot>
-      <timestamp>20241115.193939</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20241115.195504</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <extension>jar</extension>
-        <value>1.0-20241115.193939-1</value>
-        <updated>20241115193939</updated>
+        <extension>module</extension>
+        <value>1.0-20241115.195504-2</value>
+        <updated>20241115195504</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20241115.193939-1</value>
-        <updated>20241115193939</updated>
+        <value>1.0-20241115.195504-2</value>
+        <updated>20241115195504</updated>
       </snapshotVersion>
       <snapshotVersion>
-        <extension>module</extension>
-        <value>1.0-20241115.193939-1</value>
-        <updated>20241115193939</updated>
+        <extension>jar</extension>
+        <value>1.0-20241115.195504-2</value>
+        <updated>20241115195504</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
